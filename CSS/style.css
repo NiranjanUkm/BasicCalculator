@@ -53,8 +53,8 @@ body{
 
 @media (max-width: 768px) {
     .calculator form input{
-        width: 57px;
-        height: 57px;
+        width: 67px;
+        height: 67px;
     }
 }
 
