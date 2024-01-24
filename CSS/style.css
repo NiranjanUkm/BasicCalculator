@@ -82,8 +82,14 @@ form .display input {
     font-family: 'digital-7', sans-serif;
     /* font-family:'digital-clock-font'; */
     padding: 0px 10px;
+    color: aliceblue;
 }
 
 form .display input:hover{
     box-shadow: none;
+}
+
+.operations{
+    color: rgb(233, 174, 12) !important;
+    
 }
