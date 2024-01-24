@@ -32,7 +32,7 @@ body{
     border-radius: 10px;
     background-color: rgba(16, 14, 18, 0.922);
     padding: 20px;
-    border: solid 3px rgb(143, 209, 63);
+    /* border: solid 3px rgb(143, 209, 63); */
     /* aspect-ratio: 4/5; */
 }
 
@@ -53,8 +53,8 @@ body{
 
 @media (max-width: 768px) {
     .calculator form input{
-        width: 57px;
-        height: 57px;
+        width: 62px;
+        height: 62px;
     }
 }
 
