@@ -27,7 +27,6 @@ document.addEventListener('DOMContentLoaded', function () {
 
     function evaluateExpression() {
         try {
-            // Replace ÷ with / and × with * for correct evaluation
             const expression = display.value.replace(/÷/g, '/').replace(/×/g, '*');
             const result = eval(expression);
     
