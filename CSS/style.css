@@ -11,7 +11,10 @@
 }
 
 body{
-    background-color: rgb(112, 139, 136);
+    /* background-color: rgb(112, 139, 136); */
+    /* background: linear-gradient( rgba(0, 0, 0, 0.781) 35%, rgb(143, 209, 63), rgb(233, 174, 12) 100%); */
+    background: linear-gradient(135deg, #008000, #212529);
+
 }
 
 * {
@@ -25,7 +28,7 @@ body{
     align-items: center;
     width: 100%;
     height: 100vh;
-
+    
 }
 
 .calculator {
